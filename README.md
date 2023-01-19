@@ -1,4 +1,4 @@
-# Car_Price_Prediction_Machine_Learning
+# Car_Price_Prediction_Machine_Learning 🚗
 ### Summary
 Forecasting is one of the most important phases in supply chain managment and data driven decisions. That's why data is so important for businesses. This repository provides a simple way to predict prices when time series analysis is not available due to the lack of datetime information. The assumptions like normality tests and outliers detection are touched through the repository. Then, a correlation analysis is made to determine whether the independent variables can be used for regression. You will see that there is an issue in this data when correlation analysis is ran. 
 
